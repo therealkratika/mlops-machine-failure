@@ -1,0 +1,13 @@
+kiet-cse/
+.venv/
+__pycache__/
+.pytest_cache/
+.git/
+.github/
+mlflow.db
+mlartifacts/
+data/
+src/
+tests/
+*.log
+.DS_Store
